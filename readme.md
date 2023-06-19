@@ -11,4 +11,4 @@
  
  See you on board 👋
  
- <p align="center"> <img src="https://komarev.com/ghpvc/?username=GITHUB-Hubertoom&label=Profile%20views&color=ce9927&style=flat" alt="GITHUB-Hubertoom" /> </p>
+ <p align="center"> <img src="https://komarev.com/ghpvc/?username=GITHUB-Hubertoom&label=Profile%20views&color=a6fa4c&style=flat" alt="GITHUB-Hubertoom" /> </p>
