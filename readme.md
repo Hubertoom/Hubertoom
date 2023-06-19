@@ -1,4 +1,4 @@
- <h4>Hey, I’m Hubert 👋</h4>
+ <h4>Hi, I’m Hubert 👋</h4>
  
  This site was built using [GitHub Pages](https://pages.github.com/).
  I'm a student and moderator at [JetBrains Academy (Hyperskill)](https://www.jetbrains.com/academy/). <br/>
