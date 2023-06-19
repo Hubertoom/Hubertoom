@@ -1,5 +1,4 @@
- <h2>Hey, I’m Hubert 👋</h2>
- This site was built using [GitHub Pages] (https://pages.github.com/).
+ <h3>Hey, I’m Hubert 👋</h3>
  I'm a student and moderator at [JetBrains Academy (Hyperskill)] (https://www.jetbrains.com/academy/). 
  Visit my [JBA profile](https://hyperskill.org/profile/67893004) to check what I have been learning 😀
  You can find here some projects I have been doing during my journey on JBA, but please don't borrow them to pass the tests 🙈 
