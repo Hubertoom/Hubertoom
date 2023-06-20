@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:c2e59c,100:64b3f4&height=200&section=header&text=Hi%20there👋&fontSize=35&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:c2e59c,100:64b3f4&height=200&section=header&text=Hi%20there👋&fontSize=40&fontAlignY=40)
  <h4>I’m Hubert</h4>
  
  I'm a student and moderator at [JetBrains Academy (Hyperskill)](https://www.jetbrains.com/academy/)👨‍💻 <br/>
