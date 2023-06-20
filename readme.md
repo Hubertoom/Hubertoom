@@ -13,4 +13,5 @@
  
  <p align="center"> <img src="https://komarev.com/ghpvc/?username=GITHUB-Hubertoom&label=Profile%20views&color=33aaeb&style=flat" alt="GITHUB-Hubertoom" /> </p>
 
- ![reversal](https://capsule-render.vercel.app/api?type=waving&reversal=true&color=0:c2e59c,100:64b3f4&height=180&section=header&text=Hi%20there👋&fontSize=35&fontAlignY=40)
+![reversal](https://capsule-render.vercel.app/api?type=slice&reversal=true&color=gradient)
+
