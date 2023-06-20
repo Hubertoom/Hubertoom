@@ -12,4 +12,3 @@
  See you on board 👋
  
  <p align="center"> <img src="https://komarev.com/ghpvc/?username=GITHUB-Hubertoom&label=Profile%20views&color=33aaeb&style=flat" alt="GITHUB-Hubertoom" /> </p>
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
