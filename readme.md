@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hi%20there👋&fontSize=40&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hi%20there👋&fontSize=35&fontAlignY=40)
 
  <h4>Hi, I’m Hubert 👋</h4>
  
