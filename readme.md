@@ -14,5 +14,5 @@
  <p align="center"> <img src="https://komarev.com/ghpvc/?username=GITHUB-Hubertoom&label=Profile%20views&color=33aaeb&style=flat" alt="GITHUB-Hubertoom" /> </p>
 
  <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src="[https://capsule-render.vercel.app/api](https://www.jetbrains.com/academy/img/bg-header.svg)?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
