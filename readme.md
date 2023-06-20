@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:c2e59c,100:64b3f4&height=150&section=header&text=Hi%20there👋&fontSize=35&fontAlignY=40)
  <h4>I’m Hubert</h4>
+ 
  I'm a student and moderator at [JetBrains Academy (Hyperskill)](https://www.jetbrains.com/academy/)👨‍💻 <br/>
  Visit my [JBA profile](https://hyperskill.org/profile/67893004) to check what I have been learning 😀 <br/>
  You can find here some projects I have been doing during my journey on JBA, but please don't borrow them to pass the tests 🙈 <br/> 
@@ -12,6 +13,4 @@
  See you on board 👋
  
  <p align="center"> <img src="https://komarev.com/ghpvc/?username=GITHUB-Hubertoom&label=Profile%20views&color=33aaeb&style=flat" alt="GITHUB-Hubertoom" /> </p>
-
-![reversal](https://capsule-render.vercel.app/api?type=waving&reversal=true&color=0:c2e59c,100:64b3f4)
 
