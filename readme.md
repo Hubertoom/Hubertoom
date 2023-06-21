@@ -13,6 +13,3 @@
  See you on board 👋
  
  <p align="center"> <img src="https://komarev.com/ghpvc/?username=GITHUB-Hubertoom&label=Profile%20views&color=33aaeb&style=flat" alt="GITHUB-Hubertoom" /> </p>
- 
- ![GitHub visitors](https://visitor-badge.laobi.icu/badge?page_id=Hubertoom)
-
